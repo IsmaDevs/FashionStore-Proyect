@@ -1,0 +1,13 @@
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.title h4 {
+    font-family: "Noto Sans TC", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+}

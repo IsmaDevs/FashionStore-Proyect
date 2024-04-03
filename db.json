@@ -1,0 +1,93 @@
+{
+  "remeras": [
+    {
+      "nombre": "Remera Principal",
+      "precio": "$12.000",
+      "imagen": "https://dcdn.mitiendanube.com/stores/165/834/products/2322435-4-18b50e7a45c7035d8a17017097018061-640-0.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Remera Segunda",
+      "precio": "$15.000",
+      "imagen": "https://dcdn.mitiendanube.com/stores/165/834/products/2322396-181-1d5d9b86091c6eba9d16836503551948-640-0.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Remera Tercera",
+      "precio": "$10.000",
+      "imagen": "https://acdn.mitiendanube.com/stores/271/146/products/img_2358-081fc6f6ec4044210e17106904639035-480-0.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Remera Cuarta",
+      "precio": "$13.000",
+      "imagen": "https://dcdn.mitiendanube.com/stores/001/054/455/products/1747-c1-ded6d43d54d48b344816809941076618-1024-1024.jpg"
+    }
+  ],
+  "pantalones": [
+    {
+      "id": 1,
+      "nombre": "Pantalon Principal",
+      "precio": "$12.000",
+      "imagen": "https://myspringfield.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-spf-master-catalog/default/dwe27965c7/images/hi-res/P_761158453TM.jpg?sw=600&sh=900&sm=fit"
+    },
+    {
+      "id": 2,
+      "nombre": "Pantalon Segundo",
+      "precio": "$15.000",
+      "imagen": "https://i.pinimg.com/736x/d6/0c/17/d60c173878d4c51045943bd4eec475a5.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Pantalon Tercero",
+      "precio": "$10.000",
+      "imagen": "https://static.zara.net/photos///2022/I/0/2/p/8574/327/507/2/w/232/8574327507_2_1_1.jpg?ts=1662561237206"
+    },
+    {
+      "id": 4,
+      "nombre": "Pantalon Cuarto",
+      "precio": "$13.000",
+      "imagen": "https://static.zara.net/photos///2022/V/0/2/p/0108/404/505/2/w/231/0108404505_2_1_1.jpg?ts=1644945463133"
+    }
+  ],
+  "destacados": [
+    {
+      "id": 1,
+      "nombre": "Remera Grafiti B&N",
+      "oldPrecio": "$20.000",
+      "precio": "$10.000",
+      "cuotas": "$3.333",
+      "imagen": "https://static.rfstat.com/mockup-maker/mockups/3957/f29ed11e05a8979218ae9053fc96df0a.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Camisa Celeste Moderno",
+      "oldPrecio": "$75.000",
+      "precio": "$30.000",
+      "cuotas": "$10.000",
+      "imagen": "https://img.freepik.com/fotos-premium/confianza-moda-empresarial-retrato-hombre-anteojos-ropa-profesional-apoyado-muralla-ciudad-traje-disenador-ropa-lujo-hombre-negocios-estilo-actitud-genial-ropa-formal_590464-115930.jpg?w=360"
+    },
+    {
+      "id": 3,
+      "nombre": "Jean Fashion Comun",
+      "oldPrecio": "$80.000",
+      "precio": "$50.000",
+      "cuotas": "$18.333",
+      "imagen": "https://modaellos.com/wp-content/uploads/2021/09/tendencias-pantalones-y-jeans-primavera-verano-2022-tejano-basic-istock.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Bermuda Azul Frances",
+      "oldPrecio": "$50.000",
+      "precio": "$25.000",
+      "cuotas": "$8.333",
+      "imagen": "https://fiftyoutlet.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-spf-master-catalog/default/dw27ad862a/images/hi-res/P_779511110D1.jpg?sw=800&sh=1200&sm=fit&q=50"
+    }
+  ],
+  "personal": {
+    "id": 1,
+    "credencial": "222",
+    "password": "123"
+  }
+}

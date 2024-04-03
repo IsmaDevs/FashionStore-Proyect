@@ -1,0 +1,22 @@
+.destacados-card {
+ margin-left: 80px;   
+ margin-top: 20px;
+}
+
+.precio strong {
+    margin-left: 6px;
+}
+
+.cuotas p {
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(212, 39, 39);
+}
+
+.cuotas i {
+    font-size: 12px;
+}
+
+.btn-ver {
+    cursor: not-allowed;
+}
